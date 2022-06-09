@@ -1,6 +1,6 @@
 ### Olá, Eu sou o José Wilson da Silva Evangelista 👋
 - 🔭 Atualmente estou trabalhando com front end.
-- 🌱 Atualmente estou aprendendo Vue.JS e Kotlin.
+- 🌱 Estou aprendendo Vue.JS e Kotlin no momento.
 
 <div align="center">
   <a href="https://github.com/WilsonSe454">
