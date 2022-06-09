@@ -1,5 +1,5 @@
 ### Olá, Eu sou o José Wilson da Silva Evangelista 👋
-- 🔭 Atualmente estou trabalhando com projetos front end.
+- 🔭 Atualmente estou trabalhando com front end.
 - 🌱 Atualmente estou aprendendo Vue.JS e Kotlin.
 
 <div align="center">
