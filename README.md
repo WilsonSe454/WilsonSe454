@@ -9,6 +9,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonSe454&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
  -->
 </div>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Wilson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wilson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wilson-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Wilson-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="Wilson-Vue.JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
+</div>
   
 
 <!--
