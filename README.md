@@ -1,6 +1,6 @@
 ### Olá, Eu sou o José Wilson da Silva Evangelista 👋
-- 🌱 Estou aprendendo Vue.JS.
-- 🌱 Estou aprendendo Laravel.
+- 👀 Eu sou estudante de Desenvolvimento web.
+- 🌱 Estou aprendendo Vue.JS e Laravel.
 
 <div align="center">
   <a href="https://github.com/WilsonSe454">
