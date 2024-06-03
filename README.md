@@ -1,5 +1,5 @@
 ### Olá, Eu sou o José Wilson da Silva Evangelista 👋
-- 👀 Eu sou estudante de desenvolvimento Web
+- 👀 Eu sou estudante de desenvolvimento Web.
 - 🌱 Estou aprendendo Vue.JS e Laravel.
 
 <div align="center">
